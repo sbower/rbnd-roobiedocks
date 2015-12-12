@@ -1,0 +1,4 @@
+I work at Cornell University as a DevOps Engineer.  We do our automation and scripting in
+ruby and I would like to hone those skills.  I am interested in learning web development
+using rails, it would be great to be able to create application that can be used in our
+development pipeline.

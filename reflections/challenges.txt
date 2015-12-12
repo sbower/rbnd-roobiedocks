@@ -1,0 +1,5 @@
+I am mostly self taught and I am concerned that I don't have the best handle on
+the ruby language.
+
+I would love to get better with module development and understanding lambdas and
+map functions.

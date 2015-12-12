@@ -1,0 +1,16 @@
+As Technical Lead for Cornell’s Cloudification team I am responsible for developing strategy
+for moving campus applications to the cloud. I lead a small team that partners with campus units
+to achieve that goal. In my daily work I use technologies like Docker, Puppet, Loggly and Jenkins.
+
+In order to maximize our move to the cloud we are embracing elasticity. This requires
+us to be proficient in the AWS API to EC2, ELB, VPC, Route53, S3, EBS and RDS. We take
+advantage of metered billing and spot instances to help optimize cost.
+
+As part of this role I work closely with the university security office to make
+sure our move to cloud meets our security standards. I help create policy for VPC
+Setup and design including basic networking, setting up NACLs, setting up security
+groups and securing resources using MFA.
+
+Transferable skills
+1) Previous development experience in ruby
+2) Experience with managing and maintaining complex systems.
